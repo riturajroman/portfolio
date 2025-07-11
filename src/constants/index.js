@@ -173,12 +173,12 @@ export const socialLinks = [
   {
     name: "GitHub",
     iconUrl: github,
-    link: "https://github.com/riturajroman",
+    link: "#",
   },
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "https://www.linkedin.com/in/ritu-raj-1961b1278/",
+    link: "#",
   },
 ];
 
